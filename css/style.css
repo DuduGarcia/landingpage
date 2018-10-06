@@ -25,13 +25,17 @@
     padding: 100px 0px;
 }
 
-.rodape{
-	text-align: center;
-	padding-top: 10px;
-	font-size: 10pt;
+.rodape {
+    text-align: center;
+    padding-top: 10px;
+    font-size: 10pt;
 }
 
-.logo{
-	height: 22px;
-	width: 22px;
+.logo {
+    height: 22px;
+    width: 22px;
+}
+
+.terceira-secao {
+    background-color: #F8F8F8;
 }
